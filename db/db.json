@@ -1,6 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+[{"title":"Test Title","text":"Test text"},{"title":"Note B","text":"Study for Monday's lecture\nCall Mom","id":"6fb75368-b17e-4768-8dc3-2c6ff86e2577"},{"title":"Note C","text":"Plan on summer trip","id":"2963f0a9-d1d2-4fac-8ecf-ce21a8525703"},{"title":"Note D","text":"Cook dinner","id":"bc1f24c8-78c5-498c-a7e3-fe1bc8e9ea62"},{"title":"Note E","text":"Visit friends\n","id":"94c36f45-be63-4c07-b769-bdcb62723ebd"}]

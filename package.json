@@ -22,7 +22,6 @@
   "homepage": "https://github.com/helloam/notetaker#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "uniqid": "^5.3.0",
     "uuid": "^8.3.2"
   }
 }
